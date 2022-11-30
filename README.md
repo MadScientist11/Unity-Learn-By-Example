@@ -13,7 +13,7 @@ A collection of examples on different topics created in Unity.
   * Basic shaders with Shader Graph
   
 ## Resources that were helpful to me
-1. [Frey Holmer](https://www.youtube.com/@Acegikmo) 
+1. [Frey Holmer](https://www.youtube.com/@Acegikmo)<br />
   She has very good series on math, editor scripting and shaders. It's a perfect place to start learning any of the topics.
-2. [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
+2. [3D Math Primer for Graphics and Game Development](https://gamemath.com/)<br />
   This is the best book to learn the mathematics required for 3D and 2D game programming. 
