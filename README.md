@@ -1,6 +1,6 @@
 # Unity-Learn-By-Example
 
-A collection of examples on different topics created in Unity.
+A collection of examples created in Unity.
 
 ## Topics
 + Math (Most of the examples are from Frey Holmer's [Math Series](https://www.youtube.com/watch?v=MOYiVLEnhrw&list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V&ab_channel=FreyaHolm%C3%A9r)
