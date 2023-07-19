@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HealthBar
+  m_Shader: {fileID: 4800000, guid: a37dcc58184f5ac43a3a5a5fcf62959c, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 481c915acab659045b72a7c992bb0d60, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _health: 1
+    - _radius: 0.029
+    m_Colors:
+    - _bgColor: {r: 0.2830189, g: 0.2790139, b: 0.2790139, a: 1}
+    - _fullHealthColor: {r: 0, g: 1, b: 0, a: 1}
+    - _fullHelathColor: {r: 0, g: 1, b: 0, a: 1}
+    - _lowHealthColor: {r: 1, g: 0, b: 0, a: 1}
+    - _lowHelathColor: {r: 1, g: 0, b: 0, a: 1}
+    - _lwHelathColor: {r: 1, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
